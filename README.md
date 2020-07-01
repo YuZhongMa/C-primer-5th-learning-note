@@ -2,17 +2,17 @@
 
 ## 简介
 
-《C++ Primer 中文版（第 5 版）》学习仓库，包括**笔记**和**课后练习答案**。
+《C++ Primer 中文版（第 5 版）》学习仓库，包括**note**和**课后练习答案**。
 
 ## 环境
 
-- system: macOS catalina 
-- IDE: VS Code
+- system: macOS catalina
+- IDE: VS Code  Clion
 - compiler: g++
 
 
 
-## 目录
+## 项目目录
 
 - 第1章 : 开始  [笔记](https://github.com/YuZhongMa/C-primer-5th-learning-note/tree/master/notes/ch01.md)  [练习](https://github.com/YuZhongMa/C-primer-5th-learning-note/tree/master/excersize/ch01.md)
 - 第 I 部分 : C++基础

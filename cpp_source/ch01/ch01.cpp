@@ -194,7 +194,7 @@ void q_1_23(){
 }
 
 int main() {
-//    basic_io();
+   basic_io();
 //    basic_while();
 //    basic_for();
 //    basic_if();
@@ -212,6 +212,6 @@ int main() {
 //    q_1_20();
 //    q_1_21();
 //    q_1_22();
-    q_1_23();
+    // q_1_23();
     return 0;
 }
